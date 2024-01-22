@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @sterniR
-- 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning JS etc.
-- 💞️ I’m looking to collaborate on nope
-- 📫 How to reach me 
+
